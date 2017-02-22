@@ -14,5 +14,5 @@ C:\Users\Anders\Documents\GitHub\SimpleTutoringProgram\STP\STP\obj\Debug\STP.vbp
 C:\Users\Anders\Documents\GitHub\SimpleTutoringProgram\STP\STP\obj\Debug\STP.exe
 C:\Users\Anders\Documents\GitHub\SimpleTutoringProgram\STP\STP\obj\Debug\STP.xml
 C:\Users\Anders\Documents\GitHub\SimpleTutoringProgram\STP\STP\obj\Debug\STP.pdb
-C:\Users\Anders\Documents\GitHub\SimpleTutoringProgram\STP\STP\obj\Debug\video_1.g.vb
-C:\Users\Anders\Documents\GitHub\SimpleTutoringProgram\STP\STP\obj\Debug\video_1.baml
+C:\Users\Anders\Documents\GitHub\SimpleTutoringProgram\STP\STP\obj\Debug\video.g.vb
+C:\Users\Anders\Documents\GitHub\SimpleTutoringProgram\STP\STP\obj\Debug\video.baml

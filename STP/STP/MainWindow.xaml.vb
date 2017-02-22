@@ -1,6 +1,9 @@
 ﻿Class MainWindow
     Private Sub StartButton_Click(sender As Object, e As RoutedEventArgs) Handles StartButton.Click
-        Print("time to close")
-        Me.Close()
+        Dim vid As Window
+        vid = New video()
+        vid.Show()
+        vid = Nothing
+        Close()
     End Sub
 End Class

@@ -54,12 +54,12 @@ STP
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
-<member name="T:STP.video_1">
+<member name="T:STP.video">
 <summary>
-video_1
+video
 </summary>
 </member>
-<member name="M:STP.video_1.InitializeComponent">
+<member name="M:STP.video.InitializeComponent">
 <summary>
 InitializeComponent
 </summary>
